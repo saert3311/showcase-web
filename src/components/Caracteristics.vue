@@ -13,7 +13,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="card-feature text-center">
               <div class="feature-icon">
-                <img src="img/home/png/001-unlock.png" alt="" />
+                <img src="/img/home/png/001-unlock.png" alt="" />
               </div>
               <h3>SSL</h3>
               <p>
@@ -24,7 +24,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="card-feature text-center">
               <div class="feature-icon">
-                <img src="img/home/png/002-shield.png" alt="" />
+                <img src="/img/home/png/002-shield.png" alt="" />
               </div>
               <h3>Respaldos diarios automatizados</h3>
               <p>Se minimiza el riesgo de pérdida de información crítica y garantizando la continuidad del sitio web con la menor interrupción posible        
@@ -34,7 +34,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="card-feature text-center">
               <div class="feature-icon">
-                <img src="img/home/png/003-pencil.png" alt="" />
+                <img src="/img/home/png/003-pencil.png" alt="" />
               </div>
               <h3>Diseño atractivo y funcional</h3>
               <p>
@@ -45,7 +45,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="card-feature text-center">
               <div class="feature-icon">
-                <img src="img/home/png/004-home-page.png" alt="" />
+                <img src="/img/home/png/004-home-page.png" alt="" />
               </div>
               <h3>Visibilidad en Buscadores</h3>
               <p>
@@ -56,7 +56,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="card-feature text-center">
               <div class="feature-icon">
-                <img src="img/home/png/005-headset.png" alt="" />
+                <img src="/img/home/png/005-headset.png" alt="" />
               </div>
               <h3>Soporte dedicado</h3>
               <p>

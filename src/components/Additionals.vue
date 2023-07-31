@@ -9,7 +9,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="card-service text-center">
               <div class="service-icon">
-                <img src="img/home/png/006-server.png" alt="" />
+                <img src="/img/home/png/006-server.png" alt="" />
               </div>
               <h3>CDN</h3>
               <p>
@@ -20,7 +20,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="card-service text-center">
               <div class="service-icon">
-                <img src="img/home/png/009-art.png" alt="" />
+                <img src="/img/home/png/009-art.png" alt="" />
               </div>
               <h3>Optimización SEO</h3>
               <p>
@@ -31,7 +31,7 @@
           <div class="col-lg-4 col-sm-6">
             <div class="card-service text-center">
               <div class="service-icon">
-                <img src="img/home/png/008-mail.png" alt="" />
+                <img src="/img/home/png/008-mail.png" alt="" />
               </div>
               <h3>Email Corporativo</h3>
               <p>
