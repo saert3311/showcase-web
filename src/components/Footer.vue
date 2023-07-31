@@ -14,4 +14,11 @@
 <script>
 
 </script>
-<style></style>
+<style>
+.footer-area{
+    padding: 0!important;
+}
+.footer-area .footer-bottom {
+    margin-top: 0 !important;
+}
+</style>
