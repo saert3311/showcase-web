@@ -1,6 +1,6 @@
 # showcase-web
 
-This template should help get you started developing with Vue 3 in Vite.
+Small project used to showcase web projects made with vue.
 
 ## Recommended IDE Setup
 
