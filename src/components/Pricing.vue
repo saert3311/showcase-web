@@ -14,7 +14,7 @@
                     <h4>Inicia</h4>
                     <p>Tu punto de partida</p>
                     <small class="text-muted">Desde</small>
-                    <h1 class="card-pricing__price"><span>$</span>650</h1>
+                    <h1 class="card-pricing__price"><span>$</span>550</h1>
                   </div>
                   <ul class="card-pricing__list">
                     <li>Hasta 5 secciones de información</li>
@@ -31,7 +31,7 @@
                     <h4>PyME</h4>
                     <p>Acepta reserva y pagos</p>
                     <small class="text-muted">Desde</small>
-                    <h1 class="card-pricing__price"><span>$</span>950</h1>
+                    <h1 class="card-pricing__price"><span>$</span>850</h1>
                   </div>
                   <ul class="card-pricing__list">
                     <p><strong>Todo lo del plan inicial, ademas:</strong></p>
